@@ -71,7 +71,7 @@ This repository is part of the TechLab portfolio series, a collection of hands-o
 | [01 - Identity Overview](01-Identity-Overview/Identity-Overview.md) | ✅ Complete |
 | [02 - User Management](02-User-Management/User-Management.md) | ✅ Complete |
 | [03 - Group Management](03-Group-Management/Group-Management.md) | ✅ Complete |
-| 04 - Introduction to Administrative Roles | ⏳ Planned |
+| [04 - Introduction to Administrative Roles](04-Administrative-Roles/Administrative-Roles.md) | ✅ Complete |
 | 05 - Multi-Factor Authentication (MFA) | ⏳ Planned |
 | 06 - Password Management | ⏳ Planned |
 | 07 - Sign-In Logs and Audit Logs | ⏳ Planned |
@@ -160,21 +160,30 @@ Skills developed:
 
 ### 04 – Introduction to Administrative Roles
 
-Introduction to delegated administration and administrative permissions.
+Introduction to delegated administration, Role-Based Access Control (RBAC), and administrative permissions within Microsoft Entra ID.
+
+This chapter provides a practical introduction to Microsoft Entra administrative roles, delegated administration, and the Principle of Least Privilege.
 
 Topics covered:
 
+- Administrative roles overview
+- Role-Based Access Control (RBAC)
 - Global Administrator
-- User Administrator
 - Helpdesk Administrator
-- Role assignments
-- Least privilege principles
+- Delegated administration
+- Administrative role assignments
+- Administrative role removal
+- Principle of Least Privilege
+- Administrative security best practices
 
 Skills developed:
 
-- Administrative role awareness
+- Administrative role management
+- Role-Based Access Control (RBAC)
 - Delegated administration
-- Security best practices
+- Identity governance awareness
+- Security administration
+- Access management
 
 ---
 
